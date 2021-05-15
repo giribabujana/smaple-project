@@ -1,2 +1,3 @@
 this a new message
-this 
+this
+and we have reset command
