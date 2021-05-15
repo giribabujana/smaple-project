@@ -1,2 +1,4 @@
 this a new message
-this 
+this
+
+something added
