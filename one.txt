@@ -1,3 +1,6 @@
 this a new message
 this
+
 and we have reset command
+this is second line creted
+
