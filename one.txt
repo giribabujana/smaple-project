@@ -1,9 +1,3 @@
-this a new mess
+this a new message
 this
-
-
-this is second line creted
-=======
-this 
-giri
-
+and we have reset command
